@@ -1,0 +1,2 @@
+# IndustrialAI
+Dots generator
